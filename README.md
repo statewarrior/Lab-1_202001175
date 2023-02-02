@@ -1,7 +1,7 @@
-# Lab-1_202001175
+## Lab-1_202001175
 
 
-Q1:
+#Q1:
 - set up to provide state-of-the-art research facilities.
 - Apart from research scholars (students) and professors, it also
   includes quite a large number of employees who work on different projects undertaken by
@@ -14,7 +14,7 @@ Q1:
 - issuing or returning books is restricted to valid users (members) of LIS only.
 - final deliverable would be a web application.
 
-ANSWER:-
+#ANSWER:-
 
 Functional Requirements:
 1. Members can borrow or return books.
@@ -33,7 +33,7 @@ Non-Functional Requirements:
 
 
 
-Q2:
+#Q2:
 - create an impactful solution for this community that
   addresses some of their everyday needs.
 - mobile application uses artificial intelligence to
@@ -41,7 +41,7 @@ Q2:
   where immediate alerts and continual logging are critical for the user.
 - This app is optimized for Android with low-latency so that it works in real-time for use.
 
-ANSWER:-
+#ANSWER:-
 
 Scope:
 The scope of the problem is to create a mobile application that addresses the needs of people with disabling hearing loss.
