@@ -16,7 +16,7 @@
 
 ### ANSWER:-
 
-Functional Requirements:
+#### Functional Requirements:
 1. Members can borrow or return books.
 2. Members can extend the date of borrowing.
 3. Library staff can easily handle book transactions.
@@ -26,7 +26,7 @@ Functional Requirements:
 7. Runs within the institute LAN.
 
 
-Non-Functional Requirements:
+#### Non-Functional Requirements:
 1. Web application should be secure.
 2. Confidential information should not be stored in plain text.
 
@@ -43,17 +43,17 @@ Non-Functional Requirements:
 
 ### ANSWER:-
 
-Scope:
+#### Scope:
 The scope of the problem is to create a mobile application that addresses the needs of people with disabling hearing loss.
 
-Features:
+#### Features:
 1. Uses artificial intelligence to recognize key sound events.
 2. Immediate alerts for events of interest (e.g. car horns and babies).
 3. Continual logging of events.
 4. Optimized for Android.
 5. Low latency for real-time use.
 
-Non-Functional Aspects:
+#### Non-Functional Aspects:
 1. Performance: the app should have low latency and work in real-time.
 2. Compatibility: the app should be optimized for Android devices.
 3. User experience: the app should provide immediate alerts and continual logging of events to meet the needs of people with disabling hearing loss.
