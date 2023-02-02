@@ -31,6 +31,8 @@ Non-Functional Requirements:
 2. Confidential information should not be stored in plain text.
 
 
+
+
 Q2:
 - create an impactful solution for this community that
   addresses some of their everyday needs.
